@@ -1,0 +1,2 @@
+crear helloworld.txt
+get init
