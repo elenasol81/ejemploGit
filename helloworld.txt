@@ -1,2 +1,4 @@
 crear helloworld.txt
 get init
+Hola, muy buenas, ya se acaba este taller.
+Me voy a Vanuatu. 
